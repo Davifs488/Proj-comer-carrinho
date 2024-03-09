@@ -1,0 +1,21 @@
+    
+    OBS: Colocar o API e o APP separados e online
+
+
+    API:
+       
+
+       json-server --watch db.json
+
+
+
+
+      APP:
+
+
+
+          npm run dev
+
+
+
+          
